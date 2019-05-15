@@ -23,14 +23,14 @@ import lejos.robotics.RegulatedMotor;
 public class OrderManager {
 
 	/**Constante de couleur noire*/
-	public static int CPT_1_COLOR_RED = 440;
+	public static int CPT_1_COLOR_RED = 450;
 	/**Constante de couleur grise*/
-	public static int CPT_1_COLOR_GREY = 400;
+	public static int CPT_1_COLOR_GREY = 410;
 
 	/**Constante de couleur noire*/
-	public static int CPT_2_COLOR_RED = 400;
+	public static int CPT_2_COLOR_RED = 430;
 	/**Constante de couleur grise*/
-	public static int CPT_2_COLOR_GREY = 350;
+	public static int CPT_2_COLOR_GREY = 380;
 	
 	
 	private static final int SPEED_INIT = 150;
@@ -158,8 +158,8 @@ public class OrderManager {
 			if(code==997){
 				CPT_1_COLOR_RED = 450;
 				CPT_1_COLOR_GREY = 400;
-				CPT_2_COLOR_RED = 450;
-				CPT_2_COLOR_GREY = 390;
+				CPT_2_COLOR_RED = 415;
+				CPT_2_COLOR_GREY = 380;
 			}
 			
 			// robot constitue de deux rotateur
