@@ -13,10 +13,33 @@
 # Package Files #
 *.jar
 *.war
+*.nar
 *.ear
 *.zip
 *.tar.gz
 *.rar
+
+#test files
+cours_java
+Test___NXT-Com
+Test___PC-Com
+Test___OpenCv
+Test___OpenCv_old
+Test__Rubik
+Test_Motor
+
+#
+.metadata
+.recommenders
+bin
+.settings
+.euml2
+.umlProjet
+
+#Documentation
+doc
+javadoc
+
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*

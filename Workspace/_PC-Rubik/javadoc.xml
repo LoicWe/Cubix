@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" additionalparam="-encoding utf8 -docencoding utf8 -charset UTF-8 " author="true" classpath="D:\Téléchargements\eclipse-jee-mars-2-win32\eclipse\plugins\org.eclipse.fx.ide.css.jfx8_2.4.0.201605112122.jar;C:\opencv\build\java\opencv-310.jar" destdir="doc" doctitle="Rubik's cube Solver" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="exceptions,objects,view,org.kociemba.twophase,main" source="1.8" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
