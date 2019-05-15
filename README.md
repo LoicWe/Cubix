@@ -1,7 +1,5 @@
 # Cubix
 > A robot that can solve a rubik's cube
-<br/>;
-<br/>;
 ## Global structure
 
 Because the project was not only to code a robot, you will find 2 folders:
@@ -17,7 +15,6 @@ Cubix was completely 3D modelised. If you want to open the modelisation (cubix_3
 You can also open the automatically generateted building instructions
 and finally you can see the list of every pieces used
 
-<br/>;
 
 ## Workspace
 
