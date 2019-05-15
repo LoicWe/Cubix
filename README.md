@@ -1,7 +1,7 @@
 # Cubix
 > A robot that can solve a rubik's cube
-## Global structure
 ![Image cubix](/images/photo_montagne_neige.jpg)
+## Global structure
 
 Because the project was not only to code a robot, you will find 2 folders:
 * in the first (build it) you will find every things you need to rebuild your robot at home
