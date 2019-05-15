@@ -5,8 +5,7 @@
 Because the project was not only to code a robot, you will find 2 folders:
 * in the first (build it) you will find every things you need to rebuild your robot at home
 * in the second (Workspace) you will find all the code of the project
-
-<br/>;
+<br/>
 
 ## Build it
 
@@ -14,7 +13,7 @@ Cubix was completely 3D modelised. If you want to open the modelisation (cubix_3
 
 You can also open the automatically generateted building instructions
 and finally you can see the list of every pieces used
-
+<br/>
 
 ## Workspace
 
