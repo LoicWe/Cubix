@@ -1,5 +1,6 @@
 # Cubix
-> A robot that can solve a rubik's cube <
+> A robot that can solve a rubik's cube
+
 ![Image cubix](/images/photo_montagne_neige.jpg)
 ## Global structure
 
